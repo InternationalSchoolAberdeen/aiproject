@@ -1,5 +1,6 @@
 ![](images/cover.png)
 
+## [DeepText Project](https://github.com/71xn/DeepText)
 ## Bot Output 🧠
 
 ### Mk 2 Model Output - 1
@@ -32,3 +33,5 @@ Hos boul is cimpif ms qhickerslaty ne wat deally Fourl cocally istontee mont y c
 'nt a menow warnat war of enyealdorabally anded ly dike Kesc toung arcrath hriag teres is ced cape to mock riliste ag ace tos asthers sexfith the furldigatrr chome beter ntringsule I soesclymipul. 
 This may F 10dessengoraued nes as Selar's a didly abo the anthiran tack maech sthe ca be is erou.
 ```
+
+Created by [@finnlestrange](https://github.com/71xn) & [@nicholaskeck](https://github.com/Kek01101)
