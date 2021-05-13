@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
 ![](images/cover.png)
 
 ## [DeepText Project](https://github.com/71xn/DeepText)
