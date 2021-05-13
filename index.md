@@ -3,7 +3,7 @@
 ![](images/cover.png)
 
 ## [DeepText Project](https://github.com/71xn/DeepText)
-## Bot Output 🧠
+## Neural Network Output 🧠
 
 ### Mk 2 Model Output - 1
 
