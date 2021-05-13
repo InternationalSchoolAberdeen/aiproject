@@ -8,7 +8,7 @@ author_profile: false
 
 # 🧠 Output of the [DeepText](https://github.com/71xn/DeepText) Natural Language Generator
 
-## 🐍 Mk 2 Model - Pass 1 - 30 Epochs
+## 🐍 Mk 2 Model - Pass 1 - 30 Epochs - `13/05/2021`
 
 ```
 This movie is a masterpiece. The best part about it isness. You’ve got gory like a first time, as we age in sight. And whether or not you feel the pass instead of jazz, maybe not sometimes enture like this one, and the idea of all scheme it is a comedy, and redemption of for me as Anna, perfectly, while the artist of all the way they are joined first reviews of its ancist at the control of the file.
@@ -26,7 +26,7 @@ You nave, if you don’t like the director threats a poignant performance as the
 The story revolves around Larry King, for $20. I also knew known sais From what the beautiful, he plays many similarities of the three people. Pigsy (To
 ```
 
-## 🐍 Mk 1 Model - Pass 1 - 10 Epochs
+## 🐍 Mk 1 Model - Pass 1 - 10 Epochs - `10/05/2021`
 
 ```
 I saw thine freamie hascer a souml Quine who kem Masian So grto e) on thes wowe toen of 3<bry/mboug dooverso treages ar fiats tho kersoo ad thick.
