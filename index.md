@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" href="https://github.com/InternationalSchoolAberdeen/aiproject/raw/main/favicon.ico">
 
 ![](images/cover.png)
 
