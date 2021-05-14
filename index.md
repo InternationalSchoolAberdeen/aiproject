@@ -40,6 +40,7 @@ This may F 10dessengoraued nes as Selar's a didly abo the anthiran tack maech st
 ```
 
 # 🐍 Mk 0.1 Model - Next Character Predictions - `10/05/2021`
+
 ```
 Input:
  b'ate escapism for those in a land locked, sun deprived state. Many of the actors went on to bigger th'
