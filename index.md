@@ -16,7 +16,7 @@ author_profile: false
 
 
 # 🧠 Output of the [DeepText](https://github.com/71xn/DeepText) Natural Language Generator
-<p class="notice--success"> ✅ <b>Current Model:</b> Mark 3 - <a href='https://github.com/71xn/DeepText' target="_blank" >Source Code Here</a></p>
+<p class="notice--success"> ✅ <b>Current Model:</b> Mark 2 - <a href='https://github.com/71xn/DeepText' target="_blank" >Source Code Here</a></p>
 
 > Listed below are the outputs from the algorithm, updated every time we run a new tests. Tests can take multiple hours or days to run. Check back again soon to see more outputs. The current model is being trained using the [Tensorflow IMDB user review data set](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub). 
 
@@ -33,7 +33,7 @@ The current model has a tendency to write about Morgan Freeman, so here are some
 <p class="notice--danger"> 📌 <b>Note:</b> To see more of the output, use the scroll bar at the bottom of each text box. </p>
 
 
-## 🐍 Mk 3 Model - Pass 3 - 50 Epochs - `14/05/2021`
+## 🐍 Mk 2 Model - Pass 4 - 50 Epochs - `14/05/2021`
 ```
 Martin Scorsese Ither. 
 Hung Ki gelf in this citize render cameos, melancholic, depressing and the concert footage of AWP forces that he part in the novel, this was the offing to ruines for each other ever cramped and secured out. 
@@ -70,7 +70,7 @@ After 1994 and highly underrated film-making that face are inspiring through mid
 ```
 
 
-## 🐍 Mk 3 Model - Pass 2 - 50 Epochs - `14/05/2021`
+## 🐍 Mk 2 Model - Pass 3 - 50 Epochs - `14/05/2021`
 
 ~~~
 This movie is a masterpiece. The best part about it isically unintentionally with her husband, and Peter only confused for all the game. 
@@ -103,7 +103,7 @@ Dragedy of cases the lack of bounce, showing the word "Chink" and "Stephen Sondh
 May could be about the character development of that cartoon. The fact that we have very well, but with recently well known from the apparent policy. Beautiful moments is sincerely who  
 ~~~
 
-## 🐍 Mk 3 Model - Pass 1 - 50 Epochs - `14/05/2021`
+## 🐍 Mk 2 Model - Pass 2 - 50 Epochs - `14/05/2021`
 
 ```
 This movie is a masterpiece. The best part about it isical. The second special few getting coming out western discurses. Some of the same time, she just is EV! Woman in Your Chase. 
@@ -132,7 +132,7 @@ Filled director Dirk give the odd colocruniant and dialogui love and sequel, if 
 
 ```
 
-## 🐍 Mk 2 Model - Pass 1 - 30 Epochs - `13/05/2021`
+## 🐍 Mk 2 Model - Pass 1 - 50 Epochs - `13/05/2021`
 
 ```
 This movie is a masterpiece. 
