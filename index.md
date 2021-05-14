@@ -6,7 +6,17 @@ author_profile: false
 
 <br />
 
+# 💡 What is the DeepText?
+> **DeepText** is an `artificial intelligence (AI)` algorithm that interprets english language and english grammatical structures and creates outputs based on parameters such as length and topic.
+>  
+> The goal of the project is to create an AI that can create poems and stories based on webpages and articles that we specify. The idea is that we can pass the AI information and articles about climate change and have it write stories and poems based on that specific topic.
+>
+> If you are interested in the project, check out `Project` link above, for more reading about the software that was used to create this project, see [here](https://www.tensorflow.org/learn) or to learn more about natural language processing, see [here](https://towardsdatascience.com/natural-language-processing-with-tensorflow-e0a701ef5cef?gi=72765e5779df)
+
+
 # 🧠 Output of the [DeepText](https://github.com/71xn/DeepText) Natural Language Generator
+
+> Listed below are the outputs from the algorithm, updated every time we run a new tests. Tests can take multiple hours or days to run. Check back again soon to see more outputs.
 
 ## 🐍 Mk 3 Model - Pass 2 - 50 Epochs - `14/05/2021`
 
@@ -153,3 +163,5 @@ Next Char Predictions:
  b'WB*rYroa(K?MQ)r0)7),|#U@?Gi38YBCP"d(.z_8rRs^1!g~N:#%"[,4+oN>F:\\/6CM".\'H\'f/fV[r}{sqUC2j _\\nXS1UY*>^I'
 
 ```
+
+<img src="images\tensorflow.png" alt="drawing" width="150"/>
