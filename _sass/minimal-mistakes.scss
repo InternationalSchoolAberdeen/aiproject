@@ -9,6 +9,10 @@ single.page {
   width: 100%;
 }
 
+pre code{
+  white-space: pre;
+}
+
 /* Variables */
 @import "minimal-mistakes/variables";
 
