@@ -6,7 +6,7 @@ author_profile: false
 
 <br />
 
-# 💡 What is the DeepText?
+# 💡 What is DeepText?
 > **DeepText** is an `artificial intelligence (AI)` algorithm that interprets english language and english grammatical structures and creates outputs based on parameters such as length and topic.
 >  
 > The goal of the project is to create an AI that can create poems and stories based on webpages and articles that we specify. The idea is that we can pass the AI information and articles about climate change and have it write stories and poems based on that specific topic.
