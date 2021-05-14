@@ -38,3 +38,67 @@ Hos boul is cimpif ms qhickerslaty ne wat deally Fourl cocally istontee mont y c
 'nt a menow warnat war of enyealdorabally anded ly dike Kesc toung arcrath hriag teres is ced cape to mock riliste ag ace tos asthers sexfith the furldigatrr chome beter ntringsule I soesclymipul.
 This may F 10dessengoraued nes as Selar's a didly abo the anthiran tack maech sthe ca be is erou.
 ```
+
+# 🐍 Mk 0.1 Model - Next Character Predictions - `10/05/2021`
+```
+Input:
+ b'ate escapism for those in a land locked, sun deprived state. Many of the actors went on to bigger th'
+
+Next Char Predictions:
+ b'77yc}jZR8CFBn+>dSZk*M[UNK]&)9VV]bOg4s0 #-e_%8*~^hOhKA^\'_)9o""l]qguIBSde:z&9Ftn4pO4R,:5v8xz\\[P"5XA?]i?H&'
+
+Input:
+ b'reen time.<br /><br />As usual with Frank R. Strayer films, the low budget hurts the film badly, as '
+
+Next Char Predictions:
+ b'ZADN@KO"S.EJ~~]Lj~E0VV?tzUXq^E8He5j[UNK]j:q0lr#2V*ftS]=^lD{BHas#}B uaaCy.NN71Kl $2;"&E5Y\\T;b>p.tJms:=Q}L'
+
+Input:
+ b'es. The film is well-acted and genuine, completely believable from beginning to end, unlike most Bol'
+
+Next Char Predictions:
+ b"-Ohmi2ZaVz?b/owHVd0&C<,a}h]j'm=qIZ9%*{j\\6>V}5~8VXe00;'cANkse/21hlfr)*7IQ=7sh=-ryld'[UNK]q%Qtf-.ksj0kk(]"
+
+Input:
+ b'eam gives us the most comedy. What exactly is the deal with the blond on that team? Is she dating Fl'
+
+Next Char Predictions:
+ b'UbF%[7w^43DEbpF&Ar[UNK]-7"$&lZ@.+CQs|S2V`bHk[UNK]H`41<.D``,,U,aWTr*MY0LZ-"4]kY%=$YaDH17t9|pPWaC\'lL>\\hOV*1R'
+
+Input:
+ b'much true to form, with a few minor changes for Hollywood. In my opinion this is a great family movi'
+
+Next Char Predictions:
+ b'NMSrf1KTSV|g5i|TCEZn[$nPDDvwB>~gI48#\'_Q+=979k$d^%371?l@T^"R_a){\'X[&Nt6+d^[6kU)cK}-wLF~ShO>}h{KvN|sAZ'
+
+Input:
+ b' woman like Nimi fall for a comic book writer who regards his marriage as something he can put on ho'
+
+Next Char Predictions:
+ b'7zHV+ jUQLh5xa*7+aV87,8,a=G[4".RMWQ_z unJ\\_}9r<Kvjar9RV5,VV(&WC$w<k[UNK]/A41"luVU9ynKt78H,-`=#"bfm(@oDC'
+
+Input:
+ b'e industry as they really are, avoiding a clich[UNK] "Good against Evil". This could be the main differe'
+
+Next Char Predictions:
+ b'yeS"QXC9IWE>]H>L]pk]))oG+`Md`A&RPtGlF@!dD Ltzn,pNo{f?:)q_J>2u4P)d@wI~B8~a4Mpjg%7$&A4%UMH[UNK]u0Spny85GLM'
+
+Input:
+ b'tabbed in the eyes with tongs.<br /><br />The other great one was where two surfers stoners are hang'
+
+Next Char Predictions:
+ b'PK_F[UNK]Sa.|\\ot_MY/U]W1BmBgvGzjP8sIlG|)z/F2:kTlm1<o8N{asaY#K41sh~gSRO>GTkeQZ4(QZOZ]2`L^V+[UNK]oRGa>N_D\\7.7'
+
+Input:
+ b'us job! and the song from C[UNK]line Dion at the end fits rally good to the end credits! the music is go'
+
+Next Char Predictions:
+ b',hA?QMT 0+Q;6Y+8}\\RViNi7E![1QP5vaM435TzS.r3[QtlC{"3m*tJB6q&9FO6\\R_^Lq:\\>(.D|18;{2|Xj4d\'/`n)pfRD\'~yk'
+
+Input:
+ b'a wonderful supporting role...... 100% AWESOME...and now even "I know Why the Caged Bird Sings."Hey '
+
+Next Char Predictions:
+ b'WB*rYroa(K?MQ)r0)7),|#U@?Gi38YBCP"d(.z_8rRs^1!g~N:#%"[,4+oN>F:\\/6CM".\'H\'f/fV[r}{sqUC2j _\\nXS1UY*>^I'
+
+```
