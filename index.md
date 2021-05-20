@@ -16,7 +16,7 @@ author_profile: false
 
 
 # 🧠 Output of the [DeepText](https://github.com/71xn/DeepText) Natural Language Generator
-<p class="notice--success"> ✅ <b>Current Model:</b> Mark 2 - <a href='https://github.com/71xn/DeepText' target="_blank" >Source Code Here</a></p>
+<p class="notice--success"> ✅ <b>Current Model:</b> Mark 3 - <a href='https://github.com/71xn/DeepText' target="_blank" >Source Code Here</a></p>
 
 > Listed below are the outputs from the algorithm, updated every time we run a new tests. Tests can take multiple hours or days to run. Check back again soon to see more outputs. The current model is being trained using the [Tensorflow IMDB user review data set](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub). 
 
@@ -28,10 +28,79 @@ The current model has a tendency to write about Morgan Freeman, so here are some
 > "Morgan Freeman brings snappy and apparently drawn out for Lone of the son." - *DeepText Mk2*
 >
 > "Morgan Freeman rith Norwegians dubb King Vietnam as a converted Hollywood entirely love." - *DeepText Mk2*
-
+>
+> "Morgan Freeman ed by a Muslim of Americanosever" - *DeepText Mk3*
 
 <p class="notice--danger"> 📌 <b>Note:</b> To see more of the output, use the scroll bar at the bottom of each text box. </p>
 
+
+## 🐍 Mk 3 Model - Pass 1 - 10 Epochs - `20/05/2021` - Full Data Set - Paragraph 1
+```
+This movie is a masterpiece. 
+The best part about it is extremely content of the weirden footage in Allen. 
+A couple of aliens of life there are one characters, particularly pop 1 episode. 
+There was so honest limits and is superb in "Furrate." This movie isn't, they probisticz that focus onto the infant way.
+Now that I've still read a high; but it was ,that while the element of the engines are far more entertaining. 
+On to ourselves are getting specifies by Gorgo Costello, George Hilli, and other zoabs for Opie, but in the late 1950's from the USA in The Fligst, Bence made me cry utopping core mempby watched a movie about a great owner (Kutt-MaD/Mahlf) who is it another prejudice to him. The father Ethalist, hidden as Family Portago, who made up of money or travel for Adam of the police. 
+The scene in recognizing it comes nowadays, 2)or deeply intense, iennistic and urgent voices, inclunins a paltation of another of Second Hollow-years old for repertory in town and car, and I'm say not it could really cave her as New York gamer, and crew me to look into indie after a reality 1940, i don't get lost living.
+This was a film not entertaining to simply back robbery that no one seemed to write every EPCE FIL from THE LIENT CUCKORTY and Lawrench explosions about "Smir personal kidney" and "among" of all the little times and then the second thriller for the film. 
+You buy Gone that reaches itself. 
+Almost all of the scenes is the winning and slow-paced film that people live in Herzog's officers to Mark Waysan, starring Marine, his bldest Scherer Holly, I use the vile to be refreshing in more stole, the plot lined focus on a bus such fans and with a special tricker, an incredibly stupid husband and seen in the film; ' lack all movie, "The Seven Utific Beth." 
+This movie really is. 
+But I think she has no foregrable album and audiction.
+The special effects are effectivingly convincing and exciting. maybe neccerfice with actors up to lack on his use of contradictions but to complete her. 
+I liked the innocent animation, but in their own way.
+A Frank Falk as Zepharca Maskino, Catherine Francis, who finally etc.
+The fam so in the underwanted common controle everyday life to it's "The Matrix"/ a South Prise for Carmen and Duelin 'em in the end, there was no real flamboyant environments that are part of the power and anti-Slavesniversal cinema and in exhibital uhind style, I would buy this at all.
+I first saw Fate and Januar6 generation.
+This 1961 film were left. The antagonists 
+```
+
+## 🐍 Mk 3 Model - Pass 1 - 10 Epochs - `20/05/2021` - Full Data Set - Paragraph 2
+```
+Morgan Freeman ed by a Muslim of Americanosever, Darlnne's physional; distrish (despite all the father's killer-have great fear) is pretty dark, but disturbed well though.
+The point is with the factor of Liude's best weird age. Pivito Drug (surgeon, intellectually nor) and out of themselves - by Sandy colleage the period pieces of individuals 'Why do the Tinane effer' works as a WWG birds, yet quite effective.
+It is great when it showed I could pick this quite important effect, but it's not a special, and the figure is a Rivard and Childhodica's seat.
+This film works as a Farncastar conceival idea for Saving the new stars will be on it to work out!
+The score is a Great job in "Englaront" and Warner (as "mustfulie") Rubeng_ Donnie Drebs," saw the band Braid decades Mary, blahting and amorating crash and extremely power enriving friendships and feeling the film's bigly slasher.
+To thinking of their horse, the job of all men and the kingdom of their asn't alien with the book.
+Esterixan princisg Booging Parker(Andie McGargard actually lacks the oldest movie like A Triter which Singan fines the scripts of the story) are necessary and performers as their grounding performance wasn't well saying. 
+Pard friends usel to go-off all the bright and can be so over the top, Thats growing loister feeling isn't allowing bad horror filmmaking, but the film works too impressive with plains to set, but was one of the movie todays.
+"Bettack is far from believibly swift or unnecessary a fan town", but Nicolasse who plays the younger Kane, Talonson Pan. 
+Charles La Mawluda is better than Certain Bislim, deministed as any other material that lives. 
+(He's the only woman of "Soviet "dance stars, Gloria Stone in convenience, John McLlane knows To astrey does the similarities, at the time, of course, including Tessany's school(spiral foraget lovers, technicoptoniater, and photography) and the seriously ups; a brother who is amazingly mad afactors is infinitely polite of right--with steel jackass Directer Jarob Lobg), owner in which Sister Union was divided into the role I've seen never read the book.
+A must see!! And some people pull anyone? Surety is the satire of Time falls over this...
+Watch the US! Don't bother me. 
+Playing a substantial ordinary peoples straight interwearing had the wildly few other things on this situation about it's nile for being the sequel. 
+I suggest this film must be great!
+This is a "human" it has sticks in a Bond film a
+```
+
+## 🐍 Mk 3 Model - Pass 1 - 10 Epochs - `20/05/2021` - Full Data Set - Paragraph 3
+```
+This movie is horrible. 
+The worst part about it is olding for a story like a dote of style, every other film completely negative itself. 
+Great performance, from all of Subtlete's kite sets, and uncondident scenes that spaghetts with dignity and chris to become any exchange for the proficiency. 
+Gothic Korean stuff was well deserving for every and over-the-top production. 
+Ms, and Rankon Stanly was a wonderful performance by Michael Curray finally wrong; it's to the point agreaing as the other boys are played out with insight in facial innavance. 
+There are mones and everything like this constant fear, instead the feelings of the other Columbo holds, the female values under the Hall, talks the heavily lordgrame if however? 
+The individual stunts are unadorind the culture of characters and worses and movies have to imagine the progress of oursured by initially by chair. 
+Staching George Perzan decalling shooting for its supporting comication and portrayals from beginning to end. 
+Not sure he is quitbo in this radger' to through a vacution he sees and how each to bones his beautiful girl and then Marcha farkews his inflection and possibilities to relate it over and overcoming words, with destruction and gosser. 
+A story twist to the film (a perfect interest) even though she's superb. 
+The film made me make sure for truth versions, festival until to remains the opening sense of life.
+This masterpiece of their own works were not at all kindly for death. 
+This was the very repitalist in Europe. 
+This movie does have much, and it's hard to top nicely.
+David Serrander playing Lina Gargan accents a trunk to the suspense is indenerfully told by the screenplay and a sleeping backgrounced containing connection between Leilari, in the cinema; the plot insupit little of his filmings.
+You may introduce this the top 5 years old. 
+Long after appreased instead that you don't understand the stories by Studied ventury DVD on this movie.
+Bergman for her to him. 
+My favorite movie you saw the cheete BRIGHIDE OF THIS)! 
+The movie that deserved this show on the DVD sitting in Esterns... there's a few amazing moments that didn't north and food during `enemy lovin' warning in the storytelling personal performance by German, and it's still getting drugged between a consent that no one did. 
+This was well written. That's that it's witty, like doubles and an interesting human /batistic, and commerce, emotion. 
+As it's going to spend the movies among holden once up around the last 30 Nagarity. It was rejected from t
+```
 
 ## 🐍 Mk 2 Model - Pass 4 - 50 Epochs - `14/05/2021`
 ```
@@ -68,7 +137,6 @@ But begin the same time agoin way, a Wanderne Nanciacy as heads on her.
 She also was a two people in which they had not detacular level. 
 After 1994 and highly underrated film-making that face are inspiring through middle of his "Tex", "Evire Girg",
 ```
-
 
 ## 🐍 Mk 2 Model - Pass 3 - 50 Epochs - `14/05/2021`
 
