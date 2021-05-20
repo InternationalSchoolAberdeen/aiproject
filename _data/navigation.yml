@@ -6,4 +6,5 @@ main:
     url: https://github.com/InternationalSchoolAberdeen
   - title: "Overview Video"
     url: /video
-  
+  - title: "Technical Info"
+    url: /technical
