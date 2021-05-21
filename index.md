@@ -45,7 +45,7 @@ The current model has a tendency to write about Morgan Freeman, so here are some
 <p> ⛔ <b>Age Warning!</b> The following 14 page, 8600 word short story was written by DeepText using the full IMDB review dataset and therefore contains
 some explicit language. Reader discretion advised. See the link below for a copy of the text. </p>
 
-<p><a href='/mk3story' target="_blank"> <b>Short Story Page Link</b></a></p>
+<p><a href='/aiproject/mk3story' target="_blank"> <b>Short Story Page Link</b></a></p>
 
 </div>
 
