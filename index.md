@@ -24,9 +24,21 @@ author_profile: false
 
 > Listed below are the outputs from the algorithm, updated every time we run a new tests. Tests can take multiple hours or days to run. Check back again soon to see more outputs. The current model is being trained using the [TensorFlow IMDB positive user review data set](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub).
 
+<p class="notice--warning"> ✏️ <b>Note:</b> To see more of the output, use the scroll bar at the bottom of each text box. </p>
+
+## 🧙‍♂️ Mk 4 Model - `28/05/2021` - Harry Potter AI Written Chapters - Custom Training
+
+<div class="notice--info">
+
+<p> 🧙‍♂️ <b>Harry Potter Stories:</b> Here are the outputs of the sample Harry Potter Chapters that we had the AI write whilst we worked on the code.</p>
+
+<p><a href='/aiproject/hp1' target="_blank"> <b>AI Written Chapter</b></a></p>
+
+</div>
+
 ## The Morgan Freeman Quotes
 
-The current model has a tendency to write about Morgan Freeman, so here are some of the things DeepText has written about him.
+The previous model has a tendency to write about Morgan Freeman, so here are some of the things DeepText has written about him.
 
 > "Morgan Freeman adds a cozy bad with a perfect soundtrack." - _DeepText Mk2_
 >
@@ -35,8 +47,6 @@ The current model has a tendency to write about Morgan Freeman, so here are some
 > "Morgan Freeman rith Norwegians dubb King Vietnam as a converted Hollywood entirely love." - _DeepText Mk2_
 >
 > "Morgan Freeman ed by a Muslim of Americanosever" - _DeepText Mk3_
-
-<p class="notice--warning"> ✏️ <b>Note:</b> To see more of the output, use the scroll bar at the bottom of each text box. </p>
 
 
 ## 🐍 Mk 4 Model - `24/05/2021` - Full IMBD Data Set - Custom Training - Short Story
