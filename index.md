@@ -14,7 +14,7 @@ author_profile: false
 >
 > If you are interested in the project, check out `Project` link above, or the `Overview Video` link to learn more. For more reading about the software that was used to create this project, see [here](https://www.tensorflow.org/learn) or to learn more about natural language processing, see [here](https://towardsdatascience.com/natural-language-processing-with-tensorflow-e0a701ef5cef?gi=72765e5779df)
 
-<p class="notice--info"> 📅 <b>Current Status</b> Mark 4 Code Refactor and Mark 4 Algorithm In Progress. Web Scraper in Testing (for loading custom data sets from climate change articles) - <a href='https://github.com/71xn/DeepText' target="_blank" >Current Code Here</a></p>
+<p class="notice--info"> 📅 <b>Current Status</b> Mark 4 Code Refactor. Web Scraper in Testing (for loading custom data sets from climate change articles) - <a href='https://github.com/71xn/DeepText' target="_blank" >Current Code Here</a></p>
 
 # 🧠 Output of the [DeepText](https://github.com/71xn/DeepText) Natural Language Generator
 
