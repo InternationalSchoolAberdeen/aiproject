@@ -2,8 +2,7 @@
 layout: splash
 classes: wide
 author_profile: false
-path: "/hp1"
----
+path: "/harry1"
 
 ## 🧙‍♂️ Harry Potter Sample Chapters `28/05/2021` 
 
