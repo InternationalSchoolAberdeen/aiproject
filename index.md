@@ -14,24 +14,34 @@ author_profile: false
 >
 > If you are interested in the project, check out `Project` link above, or the `Overview Video` link to learn more. For more reading about the software that was used to create this project, see [here](https://www.tensorflow.org/learn) or to learn more about natural language processing, see [here](https://towardsdatascience.com/natural-language-processing-with-tensorflow-e0a701ef5cef?gi=72765e5779df)
 
-<p class="notice--info"> 📅 <b>Current Status</b> Mark 4 Code Refactor. Web Scraper in Testing (for loading custom data sets from climate change articles) - <a href='https://github.com/71xn/DeepText' target="_blank" >Current Code Here</a></p>
+# 📲 Updates
+
+<p class="notice--info"> 📅 <b>Current Status</b> Refactored code to run on the new hardware + generating Haiku's - <a href='https://github.com/71xn/deeptextGPU' target="_blank" >Current Code Here</a></p>
+
+<p class="notice--success"> ✅ <b>Current Model:</b> Mark 5 <i>GPU</i>  - <a href='https://github.com/71xn/DeepText' target="_blank" >Source Code Here</a></p>
+
+> We are currently working on getting the existing code base working with TensorflowGPU as we have been gifted a new workstation and servers that, for the mean time, should speed up the rate at which we can test models etc.
+
+<img src="./images/update-1.jpg" alt="New Setup" style="display:block;margin-left:auto;margin-right:auto;width:50%;border-radius:15px">
+<p style='text-align:center;display:block;margin-left:auto;margin-right:auto;width:50%'>Our current compute setup.</p>
 
 # 🧠 Output of the [DeepText](https://github.com/71xn/DeepText) Natural Language Generator
 
-<p class="notice--success"> ✅ <b>Current Model:</b> Mark 4 - <a href='https://github.com/71xn/DeepText' target="_blank" >Source Code Here</a></p>
+> Listed below are the outputs from the algorithm, categorized by what data set the AI was trained on. This is updated every time we run a new test. Tests can take multiple hours or days to run. Check back again soon to see more outputs.
 
-> Listed below are the outputs from the algorithm, updated every time we run a new tests. Tests can take multiple hours or days to run. Check back again soon to see more outputs. The current model is being trained using the [TensorFlow IMDB positive user review data set](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub).
-
+# 🧙‍♂️ Harry Potter Data Set
 
 ## 🧙‍♂️ Mk 4 Model - `28/05/2021` - Harry Potter AI Written Chapters - Custom Training
 
 <div class="notice--info">
 
-<p> 🧙‍♂️ <b>Harry Potter Stories:</b> Here are the outputs of the sample Harry Potter Chapters that we had the AI write whilst we worked on the code.</p>
+<p><b>Harry Potter Stories:</b> Here are the outputs of the sample Harry Potter Chapters that we had the AI write whilst we worked on the code.</p>
 
 <p><a href='/aiproject/harry1' target="_blank"> <b>AI Written Chapter</b></a></p>
 
 </div>
+
+# 🎬 IMDB Reviews Data Set
 
 ## The Morgan Freeman Quotes
 
@@ -44,7 +54,6 @@ The previous model has a tendency to write about Morgan Freeman, so here are som
 > "Morgan Freeman rith Norwegians dubb King Vietnam as a converted Hollywood entirely love." - _DeepText Mk2_
 >
 > "Morgan Freeman ed by a Muslim of Americanosever" - _DeepText Mk3_
-
 
 <p class="notice--warning"> ✏️ <b>Note:</b> To see more of the output, use the scroll bar at the bottom of each text box. </p>
 

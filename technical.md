@@ -11,11 +11,13 @@ path: "/technical"
 
 ---
 
-DeepText is currently developed using Anaconda for Python 3.8 and [JetBrains PyCharm Professional](https://www.jetbrains.com/pycharm/download/#section=windows).
+DeepText is currently developed using Anaconda for Python 3.8 and [JetBrains PyCharm Professional](https://www.jetbrains.com/pycharm/download/#section=windows). All of the code is being deployed and run on Windows Server 2022.
 
 #### 🐍 Conda Environment
 
-The project is built and run using an [Anaconda environment](https://anaconda.org/) and the latest environment yaml file can be found [here](https://github.com/71xn/DeepText/blob/main/tf.yml).
+The project is built and run using an [Anaconda environment](https://anaconda.org/) and the latest `Tensorflow-CPU` environment yaml file can be found [here](https://github.com/71xn/DeepText/blob/main/tf.yml).
+
+If you wish to use the project with `Tensorflow-GPU` then simply run `pip install tensorflow-gpu` followed by `pip install -U numpy`
 
 ### 📃 Webpage
 
