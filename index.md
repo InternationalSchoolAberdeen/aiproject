@@ -16,18 +16,56 @@ author_profile: false
 
 # 📲 Updates
 
-<p class="notice--info"> 📅 <b>Current Status</b> Refactored code to run on the new hardware + generating Haiku's - <a href='https://github.com/71xn/deeptextGPU' target="_blank" >Current Code Here</a></p>
+<p class="notice--info"> 📅 <b>Current Status</b>  Haiku's generated and published - <a href='https://github.com/71xn/deeptextGPU' target="_blank" >Current Code Here</a></p>
 
 <p class="notice--success"> ✅ <b>Current Model:</b> Mark 5 <i>GPU</i>  - <a href='https://github.com/71xn/DeepText' target="_blank" >Source Code Here</a></p>
 
 > We are currently working on getting the existing code base working with TensorflowGPU as we have been gifted a new workstation and servers that, for the mean time, should speed up the rate at which we can test models etc.
 
-<img src="./images/update-1.jpg" alt="New Setup" style="display:block;margin-left:auto;margin-right:auto;width:50%;border-radius:15px">
-<p style='text-align:center;display:block;margin-left:auto;margin-right:auto;width:50%'>Our current compute setup.</p>
-
 # 🧠 Output of the [DeepText](https://github.com/71xn/DeepText) Natural Language Generator
 
 > Listed below are the outputs from the algorithm, categorized by what data set the AI was trained on. This is updated every time we run a new test. Tests can take multiple hours or days to run. Check back again soon to see more outputs.
+
+# 🎴 Haiku's - `29/09/21`
+
+<div class="notice--info">
+
+<p><b>Haiku's:</b> Here are the outputs of the AI's predictions on the haiku data set found  <a href='https://www.kaggle.com/bfbarry/haiku-dataset' target="_blank" >here on Kaggle</a>, licensed under the <a href='https://creativecommons.org/publicdomain/zero/1.0/' target="_blank" >CC0 1.0 Public Domain</a>. Below is a compilation of all of the best results from each of the tests.</p>
+
+</div>
+
+```
+
+The whey like a ghost,
+frothing heavily as you,
+took it in your hand
+
+
+A theme for the back,
+for the sky’s a back’s breaking,
+and the wind is calm
+
+
+Our feeble prowess,
+how we fare against their work,
+of stress and despair
+
+
+The play deceiving,
+hate masquerading as love.
+Is this truly art?
+
+
+What yet? The wicked
+thread, our futures defined.
+‘Tis the curse of fate
+
+
+Wed by the river,
+staring gently at the grass,
+longing for the past
+
+```
 
 # 🧙‍♂️ Harry Potter Data Set
 

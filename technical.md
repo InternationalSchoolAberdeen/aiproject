@@ -7,6 +7,9 @@ path: "/technical"
 
 ## 💻 Technical Info
 
+<img src="./images/update-1.jpg" alt="New Setup" style="display:block;margin-left:auto;margin-right:auto;width:50%;border-radius:15px">
+<p style='text-align:center;display:block;margin-left:auto;margin-right:auto;width:50%'>Our current compute setup.</p>
+
 ### 🧪 Development Environment
 
 ---
