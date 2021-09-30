@@ -16,9 +16,9 @@ author_profile: false
 
 # 📲 Updates
 
-<p class="notice--info"> 📅 <b>Current Status</b>  Haiku's generated and published - <a href='https://github.com/71xn/deeptextGPU' target="_blank" >Current Code Here</a></p>
+<p class="notice--danger"> 🎉 <b>Vote for us!</b> - We have submitted the Haiku's to the TeenInk Magazines Haiku Contest, please visit the following link and vote for us! - <a href='https://www.teenink.com/poetry/haiku/article/1139480/Haiku-2021-Contest-Deeptexts-Thoughts' target="_blank" >TeenInk Magazine Submission</a></p>
 
-<p class="notice--success"> ✅ <b>Current Model:</b> Mark 5 <i>GPU</i>  - <a href='https://github.com/71xn/DeepText' target="_blank" >Source Code Here</a></p>
+<p class="notice--info"> 📅 <b>Current Status</b>  Haiku's generated and published - <a href='https://github.com/71xn/deeptextGPU' target="_blank" >Current Code Here</a></p>
 
 > We are currently working on getting the existing code base working with TensorflowGPU as we have been gifted a new workstation and servers that, for the mean time, should speed up the rate at which we can test models etc.
 
